@@ -1,6 +1,6 @@
-# Ambulance Detection and Traffic Light Control System
+# Ambulance Identification and Traffic Light Control System
 
-This project implements a machine learning-based system for detecting ambulances in traffic and automatically controlling traffic lights to give priority to emergency vehicles.
+This repository contains code for emergency vehicle detection and customized traffic light signals to give emergency vehicles a clear path. This project implements a machine learning-based system specifically designed with ambulances in mind, automatically controlling traffic lights to give priority to emergency vehicles.
 
 ## Features
 
@@ -8,6 +8,7 @@ This project implements a machine learning-based system for detecting ambulances
 - Automated traffic light control system
 - Traffic flow simulation
 - Support for video input processing
+- Emergency vehicle priority routing
 
 ## Project Structure
 
